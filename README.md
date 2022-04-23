@@ -12,6 +12,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ddhuynh5&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Connect with me!
-![icons8-important-mail-32](https://user-images.githubusercontent.com/71684849/164882901-b8de0651-1039-4898-8747-d24a41d9d986.png) <ddhuynh@clemson.edu> </br>
+![icons8-important-mail-32](https://user-images.githubusercontent.com/71684849/164882901-b8de0651-1039-4898-8747-d24a41d9d986.png) <ddhuynh@clemson.edu> | <dennishuynh0119@gmail.com> </br>
 ![icons8-linkedin-32](https://user-images.githubusercontent.com/71684849/164883031-9a54332d-5360-413b-9ca5-322e9aa9423a.png) <https://www.linkedin.com/in/ddhuynh123/> </br>
 ![icons8-discord-new-32](https://user-images.githubusercontent.com/71684849/164882957-d711ba5a-7bdf-4c65-9a83-d20ff3219cd9.png) dennis#6943
