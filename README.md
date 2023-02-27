@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm <a href="dennishuynh.app" target="_blank">Dennis </ a></h1>
+<h1 align="center">Hello There 👋, I'm <a href="https://dennishuynh.app/" target="_blank">Dennis </ a></h1>
 <h3 align="center">A Computer Science Student @ Clemson University</h3>
 
 ## Technologies
