@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm <a href="https://dennishuynh.app/">Dennis</ a></h1>
-<h3 align="center">Software Engineer | Computer Science Graduated from Clemson University</h3>
+<h3 align="center">Software Engineer | Computer Science Graduate from Clemson University</h3>
 
 ## Technologies
 ![icons8-python-48](https://user-images.githubusercontent.com/71684849/164881581-764659d0-2bb2-492e-8505-72db1bfb4a0d.png)
